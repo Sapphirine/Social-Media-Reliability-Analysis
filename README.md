@@ -1,4 +1,4 @@
-# ReliabilityLens
+# Social Media Reliability Analysis
 ## Motivation
 This is a social media reliability analysis. The goal of this project is to tell whether an Twitter account is reliable or not based on a self-designed rating system. Some algorithms are designed to compute a score for a given account. An account with a higher score is more likely to be an authority.
 
